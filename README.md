@@ -13,7 +13,7 @@
  <li>MySql 8.0</li>
 </ul>
 
-<h2>Como Rodar o Projeto?</h2>
+<h2>Como Rodar o Projeto?https://github.com/Reginaldodevenloper1102/hotel_alura/blob/main/challenge-one-alura-hotel-br/src/hotel_alura/Hotel%20Alura.gif</h2>
 
 
 <h2>Aprendizados</h2>
