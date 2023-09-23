@@ -120,7 +120,7 @@ Licenciado sob a licença MIT. Consulte o arquivo `LICENSE.md`.
 <h2 align="center">Recompensa de conclusão do desafio!</h2>
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/Reginaldodevenloper1102/hotel_alura/blob/main/challenge-one-alura-hotel-br/src/hotel_alura/Imagens/badge.png"width="400">
 </p>
 
  
